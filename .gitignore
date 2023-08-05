@@ -1,0 +1,8 @@
+# Project specific files
+*.xml
+*.csv
+*.json
+*.bak
+/output
+*.build
+/results

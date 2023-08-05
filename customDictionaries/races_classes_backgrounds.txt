@@ -1,0 +1,155 @@
+Aarakocra
+Aasimar
+Acolyte
+Anthropologist
+Archaeologist
+Artificer
+Astral drifter
+Astral Elf
+Athlete
+Autognome
+Barbarian
+Bard
+Bugbear
+Celebrity adventurer's scion
+Centaur
+Changeling
+Charlatan
+City watch
+Clan crafter
+Cleric
+Cloistered scholar
+Courtier
+Criminal
+Deep Gnome
+Dhampir
+Dragonborn
+Druid
+Duergar
+Dwarf
+Eladrin
+Elf
+Entertainer
+Faction agent
+Failed merchant
+Fairy
+Far traveler
+Feylost
+Fighter
+Firbolg
+Fisher
+Folk hero
+Gambler
+Genasi
+Giff
+Gith
+Githyanki
+Githzerai
+Gladiator
+Gnome
+Goblin
+Goliath
+Grinner
+Guild artisan
+Guild merchant
+Hadozee
+Half-elf
+Half-elf
+Half-orc
+Halfling
+Harengon
+Haunted one
+Hermit
+Hexblood
+Hobgoblin
+House agent
+Human
+Human
+Inheritor
+Invertigator
+illithid
+Kalashtar
+Kender
+Kenku
+Knight
+Knight of Solamnia
+Knight of the order
+Kobold
+Leonin
+Lizardfolk
+Lorehold student
+Loxodon
+Mage of High Sorcery
+Marine
+Mercenary veteran
+Minotaur
+Monk
+Noble
+Orc
+Outlander
+Owlin
+Paladin
+Pirate
+Plaintiff
+Plasmoid
+Prismari student
+Quandrix student
+Ranger
+Reborn
+Rogue
+Sage
+Sailor
+Satyr
+Sea Elf
+Shadar-kai
+Shifter
+Shipwright
+Silverquill student
+Simic hybrid
+Smuggler
+Soldier
+Sorcerer
+Spy
+Tabaxi
+Thri-kreen
+Tiefling
+Tiefling
+Tortle
+Triton
+Urban bounty hunter
+Urchin
+Uthgardt tribe member
+Vedalken
+Verdan
+Volstrucker agent
+Warforged
+Warlock
+Waterdhavian noble
+Wildspacer
+Witchlight hand
+Witherbloom student
+Wizard
+Yuan-ti
+Yuan-ti Pureblood
+Custom Lineage
+Dhampir Lineage
+Dragonborn
+Dwarf
+Elf
+Shadar-Kai
+Air Genasi
+Earth Genasi
+Fire Genasi
+Water Genasi
+Gith
+Gnome
+Half-Elf
+Half-Orc
+Halfling strongheart
+Hexblood Lineage
+OwlinSCoC
+Reborn Lineage
+Simic Hybrid
+Thri-Kreen
+Verdan
+Yuan-Ti

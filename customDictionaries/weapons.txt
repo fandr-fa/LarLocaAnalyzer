@@ -1,0 +1,34 @@
+battleaxe
+blowgun
+club
+dagger
+dart
+flail
+glaive
+greataxe
+greatclub
+greatsword
+halberd
+handaxe
+javelin
+lance
+light hammer
+longbow
+longsword
+mace
+maul
+morningstar
+net
+pike
+quarterstaff
+rapier
+scimitar
+shortbow
+shortsword
+sickle
+sling
+spear
+trident
+war pick
+warhammer
+whip
